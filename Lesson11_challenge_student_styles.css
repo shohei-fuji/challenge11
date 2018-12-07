@@ -22,7 +22,6 @@ body, div, p, h1, h2, h3, h4, h5 {
 .element1{
   background-color: rgb(245, 245, 242);
   width: 1000px;
-  height: 530px;
   height: auto;
   padding: 30px 20px 10px 50px;/* 変更しない */
 }
@@ -35,7 +34,6 @@ body, div, p, h1, h2, h3, h4, h5 {
   background-color: rgb(240, 234, 236);
   color: white;
   width: 280px;
-  height: 530px;
   height: auto;
   padding: 30px 30px 30px 50px;/* 変更しない */
 }
